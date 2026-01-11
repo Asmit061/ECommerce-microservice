@@ -6,6 +6,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .mvn
+Mongodb Credentials.txt
 ### STS ###
 .apt_generated
 .classpath
